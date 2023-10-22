@@ -38,3 +38,7 @@ make
 sudo make install 
 cd ../..
 sudo rm -rf ifopt
+
+# install dependencies for grid_map_ros2
+sudo apt-get install libeigen3-dev
+# sudo apt install ros-${ROS_DISTRO}-
