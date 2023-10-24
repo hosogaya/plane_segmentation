@@ -2,3 +2,9 @@ convex_converter/**
 convex_extractor/**
 convex_plane_msgs/**
 convex_plane_visualizer/**
+ccl_elevation/**
+elevation_mapping_ros2/**
+ssb-ccl/**
+iris/**
+grid_map_ros2/**
+plane_segmentation/**

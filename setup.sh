@@ -18,3 +18,5 @@ git clone git@github.com:hosogaya/iris.git
 git clone git@github.com:hosogaya/plane_segmentation_launch.git
 # clone ssb-ccl
 git clone git@github.com:hosogaya/ssb-ccl.git
+# clone convex_plane_visualizer
+git clone git@github.com:hosogaya/convex_plane_visualizer.git
