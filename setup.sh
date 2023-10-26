@@ -12,8 +12,8 @@ git clone git@github.com:hosogaya/elevation_ccl.git
 git clone git@github.com:hosogaya/elevation_mapping_ros2.git
 # clone grid_map_ros2
 git clone git@github.com:hosogaya/grid_map_ros2.git
-# clone iris
-git clone git@github.com:hosogaya/iris.git
+# clone iris_2d
+git clone git@github.com:hosogaya/iris_2d.git
 # clone plane segmentation_launch
 git clone git@github.com:hosogaya/plane_segmentation_launch.git
 # clone ssb-ccl

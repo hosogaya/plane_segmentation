@@ -5,7 +5,6 @@ convex_plane_visualizer/**
 ccl_elevation/**
 elevation_mapping_ros2/**
 ssb-ccl/**
-iris/**
 grid_map_ros2/**
 plane_segmentation/**
 iris_2d/**
