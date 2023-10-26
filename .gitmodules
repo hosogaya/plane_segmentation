@@ -1,0 +1,30 @@
+[submodule "iris_2d"]
+	path = iris_2d
+	url = git@github.com:hosogaya/iris_2d.git
+[submodule "convex_plane_extractor"]
+	path = convex_plane_extractor
+	url = git@github.com:hosogaya/convex_plane_extractor.git
+[submodule "convex_plane_converter"]
+	path = convex_plane_converter
+	url = git@github.com:hosogaya/convex_plane_converter.git
+[submodule "convex_plane_msgs"]
+	path = convex_plane_msgs
+	url = git@github.com:hosogaya/convex_plane_msgs.git
+[submodule "elevation_ccl"]
+	path = elevation_ccl
+	url = git@github.com:hosogaya/elevation_ccl.git
+[submodule "elevation_mapping_ros2"]
+	path = elevation_mapping_ros2
+	url = git@github.com:hosogaya/elevation_mapping_ros2.git
+[submodule "grid_map_ros2"]
+	path = grid_map_ros2
+	url = git@github.com:hosogaya/grid_map_ros2.git
+[submodule "plane_segmentation_launch"]
+	path = plane_segmentation_launch
+	url = git@github.com:hosogaya/plane_segmentation_launch.git
+[submodule "ssb-ccl"]
+	path = ssb-ccl
+	url = git@github.com:hosogaya/ssb-ccl.git
+[submodule "convex_plane_visualizer"]
+	path = convex_plane_visualizer
+	url = git@github.com:hosogaya/convex_plane_visualizer.git
